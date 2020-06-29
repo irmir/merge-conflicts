@@ -1,17 +1,30 @@
 # Jobs
 # Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+- company: UAB Idarbinimo paslaugu centras
+  position: Web developer
+  duration: August, 2019 &mdash; Decamber, 2019
+  summary: Website development for a recruiting company. Teamwork with a designer and SEO specialist
+
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+- company: Online store nori.by
+  position: Individual entrepreneur
+  duration: June, 2016 &mdash; August, 2018
+  summary: Concept development and creation of an online yarn store
 
 # Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+- company: Secondary school №28 of the city of Minsk
+  position: Teacher of computer science
+  duration:  September, 2014 &mdash; May, 2016
+  summary: Training and education of students in grades 6-11
+  
+  # Supportocat
+- company: Euroatra OJSC
+  position: System administrator
+  duration:  February, 2011 &mdash; August, 2014
+
+# Supportocat
+- company: Unitary enterprise "Remstroykompleks"
+  position: System administrator
+  duration:  October, 2008 &mdash; April, 2010
+
+
